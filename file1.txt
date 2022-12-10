@@ -1,1 +1,2 @@
-This is git bash:
+This is git bash
+Meger conflict on linux
