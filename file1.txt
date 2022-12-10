@@ -1,1 +1,2 @@
-This is git bash:
+This is git bash
+merge conflict on git bash
