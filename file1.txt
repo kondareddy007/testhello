@@ -1,2 +1,3 @@
 This is git bash
 Meger conflict on linux
+merge conflict on git bash
